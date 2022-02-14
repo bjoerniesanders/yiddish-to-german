@@ -4,10 +4,10 @@
   "description": "simply module to transliterate yiddish to german(latin)",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "test": "test"
   },
   "scripts": {
-    "test": "test"
+    "test": "node test/simple.js"
   },
   "repository": {
     "type": "git",
