@@ -1,0 +1,28 @@
+{
+  "name": "yiddish-german-transliteration",
+  "version": "1.0.0",
+  "description": "simply module to transliterate yiddish to german(latin)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjoerniesanders/yiddish-to-german.git"
+  },
+  "keywords": [
+    "transliterate",
+    "yiddsih",
+    "german",
+    "latin"
+  ],
+  "author": "Bjoern Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjoerniesanders/yiddish-to-german/issues"
+  },
+  "homepage": "https://github.com/bjoerniesanders/yiddish-to-german#readme"
+}
