@@ -13,7 +13,7 @@ $ npm install yiddish-german-transliteration
 ```javascript
 const transliterate = require('yiddish-german-transliteration');
 
-console.log(translit('אלבערט איינשטיין')); // => 'Albert Einstein'
+console.log(transliterate('אלבערט איינשטיין')); // => 'Albert Einstein'
 ```
 
 ## License
